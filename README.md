@@ -4,10 +4,15 @@
 
 A methodology for creating strong and scalable design systems. Based on the aesthetics of Indian Classical Music.
 
-Three levels of Sargam Design:
-1. **Inventory** - Aligning the foundations
-2. **Principles** - Defining the detailed guiding principles
-3. **Compositions** - Specific patterns in the context of the product
+-----
+
+From the foundations, design process, principles, voice and tone, to conceptual models, patterns, style-guide and documentation.  Sargam brings all of these together in a way that allows design teams to learn, build, and ship fast. 
+The system that drive to scale, and gives flexibility for working with the unknown devices of the future.
+
+**Three levels of Sargam Design:**
+1. **Inventory** - Align the foundations
+2. **Principles** - Define the detailed guiding principles based on ICM
+3. **Compositions** - Compose specific patterns in the context of the product
 
 -----
 
