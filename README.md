@@ -4,10 +4,10 @@
 
 A methodology for creating strong and scalable design systems. Based on the aesthetics of Indian Classical Music.
 
-From the foundations, design process, principles, voice and tone, to conceptual models, patterns, style-guide and documentation.  Sargam brings all of these together in a way that allows design teams to learn, build, and ship fast. 
+From the foundations, design process, principles, voice and tone, to conceptual models, patterns, style-guide and documentation.  Sargam brings all of these together in a way that allows design teams to learn, build, ship fast, and grow. 
 The system that drive to scale, and gives flexibility for working with the unknown devices of the future.
 
-## Three levels of sargam:
+## Three levels of Sargam:
 
 ![](Help/Images/levels.png)
 
