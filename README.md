@@ -11,9 +11,9 @@ The system that drive to scale, and gives flexibility for working with the unkno
 
 ![](Help/Images/levels.png)
 
-1. **Inventory** - Align the foundations
-2. **Principles** - Define the detailed guiding principles based on ICM
-3. **Compositions** - Compose specific patterns in the context of the product
+1. **Inventory** - Aligning design process, foundations, and conceptual models
+2. **Principles** - Defining the detailed guiding principles and style guide
+3. **Compositions** - Composing patterns in the context of the product and brand
 
 -----
 
