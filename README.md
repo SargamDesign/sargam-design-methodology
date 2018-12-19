@@ -8,6 +8,7 @@ From the design foundations, process, voice and tone, to conceptual models, styl
 
 The system that gives flexibility for working with the unknown devices of the future and drive to scale companies.
 
+
 ## Three levels of Sargam
 
 ![](Help/Images/levels.png)
@@ -20,9 +21,19 @@ The system that gives flexibility for working with the unknown devices of the fu
 -----
 
 
+## Help
+* [Announcement Article]() - Coming Soon
+* [Indian Classical Music](Help/Indian Classical Music.md)
+* [Adding Sketch Library](https://sketchapp.com/docs/libraries/adding-libraries)
+* [Download for Sketch](Sketch/Sargam 0.1.sketch)
+
+
+-----
+
 ## Designed for
 - [x] Sketch
 - [ ] Adobe XD
+- [ ] Framer X
 - [ ] Figma
 
 
@@ -31,7 +42,7 @@ The system that gives flexibility for working with the unknown devices of the fu
 
 ## Fonts used
 
-* [San Francisco](https://developer.apple.com/fonts/) **(Required to open design files.)**  
+* [San Francisco](https://developer.apple.com/fonts/) - Required to open design files.  
 * [Martel](https://github.com/typeoff/martel_sans)  
 * [Mukta](https://github.com/EkType/Mukta)
 
