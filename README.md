@@ -25,7 +25,7 @@ The system that gives flexibility for working with the unknown devices of the fu
 * [Announcement Article]() - Coming Soon
 * [Indian Classical Music](../master/Help/Indian%20Classical%20Music.md)
 * [Adding Sketch Library](https://sketchapp.com/docs/libraries/adding-libraries)
-* [Download for Sketch](../master/Sketch/Sargam%200.1.sketch.md)
+* [Download for Sketch](../master/Sketch/Sargam%200.1.sketch)
 
 
 -----
