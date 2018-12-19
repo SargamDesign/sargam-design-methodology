@@ -12,9 +12,9 @@ The system that gives flexibility for working with the unknown devices of the fu
 
 ![](Help/Images/levels.png)
 
-1. **Inventory** - Aligning design process, foundations, and conceptual models
-2. **Principles** - Defining the detailed guiding principles and style guide
-3. **Compositions** - Composing patterns in the context of the product and brand
+1. **Inventory** - Aligning process, foundations, and conceptual models.
+2. **Principles** - Defining the detailed guiding principles and style guide.
+3. **Compositions** - Composing patterns in the context of the company.
 
 
 -----
