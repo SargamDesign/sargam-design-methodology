@@ -32,31 +32,16 @@ The system that gives flexibility for working with the unknown devices of the fu
 
 ## Designed for
 - [x] Sketch
-- [ ] Adobe XD
-- [ ] Framer X
 - [ ] Figma
 
 
 -----
 
 
-## Fonts used
+## Fonts
 
-* [San Francisco](https://developer.apple.com/fonts/) - Required to open design files.  
-* [Martel](https://github.com/typeoff/martel_sans)  
-* [Mukta](https://github.com/EkType/Mukta)
+* [San Francisco](https://developer.apple.com/fonts/)
 
-
------
-
-
-## Brought to you by
-
-* **Abhimanyu Rana** - [planetabhi](https://github.com/planetabhi)
-* **Harminder Virk** - [thetutlage](https://github.com/thetutlage)
-
-
------
 
 
 ## License
