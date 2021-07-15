@@ -19,7 +19,7 @@ The system that drive to scale, and gives flexibility and creative freedom for w
 
 ## Level 1: Principles
 
-At level one we will be defining the design guiding principles at the foundational level. Based on Indian Classical Music(ICM) aesthetics, below are the key areas we'll be focusing on:
+At level one, the design guiding principles at the foundational level will be defined. Below are the some of the key areas Sargam covers in Level 1, based on Indian Classical Music(ICM) aesthetics:
 
 1. Color Spectrum (Swaras in ICM)
 2. Sequential Schemes (Shruti)
@@ -29,17 +29,20 @@ At level one we will be defining the design guiding principles at the foundation
 
 
 ## Level 2: Compositions
-This level demonstrate how above principles have been applied in components, screens or user stories, and document how other teams have extended patterns for specific use cases. Aim to keep the compositions elastic, which can adapt to current and future needs of your organization.
+This level demonstrate how above principles have been applied in components, screens or patterns, and document extended patterns for specific use cases. Sargam aims to keep the compositions elastic, which can adapt to current and future product needs.
+
+Compositions will be further categorized into 3 main categories:
 
 1. Components (Raga in ICM)
 2. Features/User Stories (Ghazals)
 3. Apps (Gharana)
 
 ## Level 3: Inventory
-Inventory will be recording foundations like design tokens, token translation process, design process, insight framework, how we work, how we name files, how we organize them, design tools, developers hand-off guides etc.
+In inventory will be used to record foundations like design tokens, token translation workflow, insight framework, how we work, how we name files, how we organize them, design tools, developers hand-off guides etc.
 
-A standardized formats to keep all stakeholders aligned and accelerate design workflows. Templates to empower team to work in parallel and ship high-quality work quickly. Define the inventory items as per your organization need or want.
-Below are some of the key areas we'll be covering in Sargam UI inventory:
+A collection of standardized formats to keep all stakeholders aligned and accelerate design workflows across teams. Templates to empower team to work in parallel and ship high-quality work with speed. 
+
+Below are some of the key areas Sargam inventory will be covering:
 
 1. Design Tokens + Translation
 2. Insight Framework, How We Work, Get Started Templates
@@ -48,7 +51,10 @@ Below are some of the key areas we'll be covering in Sargam UI inventory:
 -----
 
 ## Sargam UI
-I'm aiming to release Sargam UI on Figma community, on or before 15th August 2021. Below are the guiding principles I'm focusing on for Sargam UI:
+Ship your products with confidence. Sargam UI is for creators, founders, designers, engineers, & product managers who want to ship high quality products with speed and scale.
+
+I’m aiming to release Sargam UI v1.0 on Figma community, on or before 15th of August 2021. Below are the guiding principles I’m focusing on while building Sargam UI:
+
 
 **Authentic** - No one like Sargam.
 **Clarity** - Eliminate ambiguity.
@@ -59,7 +65,7 @@ I'm aiming to release Sargam UI on Figma community, on or before 15th August 202
 
 
 ## Links
-* [Sargam UI Preview](https://www.figma.com/file/REjxWkrTHcXKJw9rtzTo3a/Sargam?node-id=0%3A1) - [WIP]
+* [Download Sargam UI](https://www.figma.com/community/file/997606486822345599/Sargam-UI-v0.1) - v0.1
 * [Announcement Article](https://planetabhi.medium.com/announcing-sargam-design-cc28e86c3f05)
 
 -----
