@@ -1,0 +1,928 @@
+{
+  "color": {
+    "color": {
+      "primary": {
+        "teal": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(11, 157, 150, 1)",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "green": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(20, 167, 65, 1)",
+          "type": "color"
+        },
+        "lemon": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(245, 207, 17, 1)",
+          "type": "color"
+        },
+        "tomato": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(243, 51, 48, 1)",
+          "type": "color"
+        },
+        "lavender": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(142, 82, 169, 1)",
+          "type": "color"
+        },
+        "lily pink": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(251, 71, 157, 1)",
+          "type": "color"
+        }
+      },
+      "teal": {
+        "01": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(245, 251, 251, 1)",
+          "type": "color"
+        },
+        "02": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(187, 228, 226, 1)",
+          "type": "color"
+        },
+        "03": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(89, 188, 184, 1)",
+          "type": "color"
+        },
+        "04": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(50, 173, 167, 1)",
+          "type": "color"
+        },
+        "teal": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(11, 157, 150, 1)",
+          "type": "color"
+        },
+        "06": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(9, 132, 126, 1)",
+          "type": "color"
+        },
+        "07": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(7, 94, 90, 1)",
+          "type": "color"
+        },
+        "08": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(4, 57, 54, 1)",
+          "type": "color"
+        }
+      },
+      "lavender": {
+        "01": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(250, 248, 252, 1)",
+          "type": "color"
+        },
+        "02": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(223, 207, 231, 1)",
+          "type": "color"
+        },
+        "03": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(178, 137, 197, 1)",
+          "type": "color"
+        },
+        "04": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(160, 110, 183, 1)",
+          "type": "color"
+        },
+        "lavender": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(142, 82, 169, 1)",
+          "type": "color"
+        },
+        "06": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(119, 69, 142, 1)",
+          "type": "color"
+        },
+        "07": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(85, 49, 101, 1)",
+          "type": "color"
+        },
+        "08": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(51, 30, 61, 1)",
+          "type": "color"
+        }
+      },
+      "green": {
+        "01": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(246, 251, 247, 1)",
+          "type": "color"
+        },
+        "02": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(189, 230, 202, 1)",
+          "type": "color"
+        },
+        "03": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(95, 195, 126, 1)",
+          "type": "color"
+        },
+        "04": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(58, 181, 95, 1)",
+          "type": "color"
+        },
+        "green": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(20, 167, 65, 1)",
+          "type": "color"
+        },
+        "06": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(17, 140, 55, 1)",
+          "type": "color"
+        },
+        "07": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(12, 100, 39, 1)",
+          "type": "color"
+        },
+        "08": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(7, 60, 23, 1)",
+          "type": "color"
+        }
+      },
+      "lily pink": {
+        "01": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(255, 248, 251, 1)",
+          "type": "color"
+        },
+        "02": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(254, 203, 228, 1)",
+          "type": "color"
+        },
+        "03": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(252, 130, 188, 1)",
+          "type": "color"
+        },
+        "04": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(252, 100, 173, 1)",
+          "type": "color"
+        },
+        "lily pink": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(251, 71, 157, 1)",
+          "type": "color"
+        },
+        "06": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(211, 60, 132, 1)",
+          "type": "color"
+        },
+        "07": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(151, 43, 94, 1)",
+          "type": "color"
+        },
+        "08": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(90, 26, 57, 1)",
+          "type": "color"
+        }
+      },
+      "tomato": {
+        "01": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(255, 247, 247, 1)",
+          "type": "color"
+        },
+        "02": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(252, 198, 197, 1)",
+          "type": "color"
+        },
+        "03": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(247, 116, 114, 1)",
+          "type": "color"
+        },
+        "04": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(245, 84, 81, 1)",
+          "type": "color"
+        },
+        "tomato": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(243, 51, 48, 1)",
+          "type": "color"
+        },
+        "06": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(204, 43, 40, 1)",
+          "type": "color"
+        },
+        "07": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(146, 31, 29, 1)",
+          "type": "color"
+        },
+        "08": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(87, 18, 17, 1)",
+          "type": "color"
+        }
+      },
+      "lemon": {
+        "01": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(255, 253, 245, 1)",
+          "type": "color"
+        },
+        "02": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(252, 242, 188, 1)",
+          "type": "color"
+        },
+        "03": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(248, 222, 93, 1)",
+          "type": "color"
+        },
+        "04": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(247, 215, 55, 1)",
+          "type": "color"
+        },
+        "lemon": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(245, 207, 17, 1)",
+          "type": "color"
+        },
+        "06": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(206, 174, 14, 1)",
+          "type": "color"
+        },
+        "07": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(147, 124, 10, 1)",
+          "type": "color"
+        },
+        "08": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(88, 75, 6, 1)",
+          "type": "color"
+        }
+      },
+      "silvers": {
+        "white": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(255, 255, 255, 1)",
+          "type": "color"
+        },
+        "01": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(248, 247, 246, 1)",
+          "type": "color"
+        },
+        "02": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(231, 229, 224, 1)",
+          "type": "color"
+        },
+        "03": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(219, 217, 210, 1)",
+          "type": "color"
+        },
+        "04": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(193, 191, 185, 1)",
+          "type": "color"
+        },
+        "05": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(114, 113, 109, 1)",
+          "type": "color"
+        },
+        "06": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(44, 43, 42, 1)",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "font": {
+    "font": {
+      "heading": {
+        "title xl": {
+          "category": "font",
+          "exportKey": "font",
+          "fontSize": {
+            "value": 73,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "string"
+          },
+          "fontFamily": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "fontWeight": {
+            "value": 700,
+            "type": "number"
+          },
+          "fontStyle": {
+            "value": "normal",
+            "type": "string"
+          },
+          "fontStretch": {
+            "value": "normal",
+            "type": "string"
+          },
+          "_fontStyleOld": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "letterSpacing": {
+            "value": -1,
+            "type": "number",
+            "unit": "percent"
+          },
+          "lineHeight": {
+            "value": 75,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "paragraphSpacing": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textCase": {
+            "value": "none",
+            "type": "string"
+          }
+        },
+        "title l": {
+          "category": "font",
+          "exportKey": "font",
+          "fontSize": {
+            "value": 58,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "string"
+          },
+          "fontFamily": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "fontWeight": {
+            "value": 700,
+            "type": "number"
+          },
+          "fontStyle": {
+            "value": "normal",
+            "type": "string"
+          },
+          "fontStretch": {
+            "value": "normal",
+            "type": "string"
+          },
+          "_fontStyleOld": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "letterSpacing": {
+            "value": -1,
+            "type": "number",
+            "unit": "percent"
+          },
+          "lineHeight": {
+            "value": 64,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "paragraphSpacing": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textCase": {
+            "value": "none",
+            "type": "string"
+          }
+        },
+        "title": {
+          "category": "font",
+          "exportKey": "font",
+          "fontSize": {
+            "value": 45,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "string"
+          },
+          "fontFamily": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "fontWeight": {
+            "value": 700,
+            "type": "number"
+          },
+          "fontStyle": {
+            "value": "normal",
+            "type": "string"
+          },
+          "fontStretch": {
+            "value": "normal",
+            "type": "string"
+          },
+          "_fontStyleOld": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "letterSpacing": {
+            "value": -1,
+            "type": "number",
+            "unit": "percent"
+          },
+          "lineHeight": {
+            "value": 56,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "paragraphSpacing": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textCase": {
+            "value": "none",
+            "type": "string"
+          }
+        },
+        "sub title": {
+          "category": "font",
+          "exportKey": "font",
+          "fontSize": {
+            "value": 28,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "string"
+          },
+          "fontFamily": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "number"
+          },
+          "fontStyle": {
+            "value": "normal",
+            "type": "string"
+          },
+          "fontStretch": {
+            "value": "normal",
+            "type": "string"
+          },
+          "_fontStyleOld": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "letterSpacing": {
+            "value": -0.3,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "lineHeight": {
+            "value": 42,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "paragraphSpacing": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textCase": {
+            "value": "none",
+            "type": "string"
+          }
+        }
+      },
+      "body": {
+        "body l": {
+          "category": "font",
+          "exportKey": "font",
+          "fontSize": {
+            "value": 22,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "string"
+          },
+          "fontFamily": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "number"
+          },
+          "fontStyle": {
+            "value": "normal",
+            "type": "string"
+          },
+          "fontStretch": {
+            "value": "normal",
+            "type": "string"
+          },
+          "_fontStyleOld": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "lineHeight": {
+            "value": 34,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "paragraphSpacing": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textCase": {
+            "value": "none",
+            "type": "string"
+          }
+        },
+        "body": {
+          "category": "font",
+          "exportKey": "font",
+          "fontSize": {
+            "value": 15,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "string"
+          },
+          "fontFamily": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "fontWeight": {
+            "value": 400,
+            "type": "number"
+          },
+          "fontStyle": {
+            "value": "normal",
+            "type": "string"
+          },
+          "fontStretch": {
+            "value": "normal",
+            "type": "string"
+          },
+          "_fontStyleOld": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "lineHeight": {
+            "value": 25,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "paragraphSpacing": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textCase": {
+            "value": "none",
+            "type": "string"
+          }
+        }
+      },
+      "action": {
+        "link l": {
+          "category": "font",
+          "exportKey": "font",
+          "fontSize": {
+            "value": 22,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textDecoration": {
+            "value": "underline",
+            "type": "string"
+          },
+          "fontFamily": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "fontWeight": {
+            "value": 600,
+            "type": "number"
+          },
+          "fontStyle": {
+            "value": "normal",
+            "type": "string"
+          },
+          "fontStretch": {
+            "value": "normal",
+            "type": "string"
+          },
+          "_fontStyleOld": {
+            "value": "Semi Bold",
+            "type": "string"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "lineHeight": {
+            "value": 34,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "paragraphSpacing": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textCase": {
+            "value": "none",
+            "type": "string"
+          }
+        },
+        "link": {
+          "category": "font",
+          "exportKey": "font",
+          "fontSize": {
+            "value": 15,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textDecoration": {
+            "value": "underline",
+            "type": "string"
+          },
+          "fontFamily": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "fontWeight": {
+            "value": 600,
+            "type": "number"
+          },
+          "fontStyle": {
+            "value": "normal",
+            "type": "string"
+          },
+          "fontStretch": {
+            "value": "normal",
+            "type": "string"
+          },
+          "_fontStyleOld": {
+            "value": "Semi Bold",
+            "type": "string"
+          },
+          "letterSpacing": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "lineHeight": {
+            "value": 25,
+            "type": "number",
+            "unit": "pixels"
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "paragraphSpacing": {
+            "value": 9,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "textCase": {
+            "value": "none",
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "effect": {
+    "effect": {
+      "shadow a": {
+        "category": "effect",
+        "exportKey": "effect",
+        "type": {
+          "value": "dropShadow",
+          "type": "string"
+        },
+        "radius": {
+          "value": 4,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "color": {
+          "value": "rgba(44, 43, 42, 0.1)",
+          "type": "color"
+        },
+        "offset": {
+          "x": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "y": {
+            "value": 2,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "spread": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        }
+      },
+      "shadow b": {
+        "category": "effect",
+        "exportKey": "effect",
+        "type": {
+          "value": "dropShadow",
+          "type": "string"
+        },
+        "radius": {
+          "value": 32,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "color": {
+          "value": "rgba(44, 43, 42, 0.16)",
+          "type": "color"
+        },
+        "offset": {
+          "x": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "y": {
+            "value": 12,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "spread": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        }
+      }
+    }
+  }
+}

@@ -40,7 +40,7 @@ Compositions will be further categorized into 3 main categories:
 ## Level 3: Inventory
 In inventory will be used to record foundations like design tokens, token translation workflow, insight framework, how we work, how we name files, how we organize them, design tools, developers hand-off guides etc.
 
-A collection of standardized formats to keep all stakeholders aligned and accelerate design workflows across teams. Templates to empower team to work in parallel and ship high-quality work with speed. 
+A collection of standardized formats to keep all stakeholders aligned and accelerate design workflows across teams. Templates to empower team to work in parallel and ship high-quality work with speed.
 
 Below are some of the key areas Sargam inventory will be covering:
 
@@ -72,4 +72,4 @@ I’m aiming to release Sargam UI v1.0 on Figma community, on or before 15th of 
 
 
 ## License
-This project is licensed under the GNU License - see the [LICENSE.md](Sargam/LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details.
