@@ -13,7 +13,7 @@ UI v0.4 is now available on the Figma community. The goal is to build a design s
 **Simple** — Keep it super simple.
 **Universal** — Welcoming & accessible visual language.
 **Warmth** — Built for warmth and a caring vibe.
-**Authentic** — No one like Sargam.
+**Authentic** — Nothing like Sargam.
 **Clarity** — Eliminate ambiguity.
 
 -----
