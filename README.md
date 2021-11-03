@@ -1,35 +1,30 @@
 # Sargam UI
-Sargam UI is for makers, founders, designers, engineers, & managers who want to produce products at an elite level. It’s a free-form design system improvisation framework, made for creators who want to deliver high-quality products with speed and scale.
+Sargam UI is a free-form design system improvisation framework, made for creators who want to craft and deliver high-quality products with speed and scale. Helps you materialize higher-level concepts, such as design principles and brand values, into concrete interfaces without losing core design ethos.
 
-UI v0.4 is now available on the Figma community. The goal is to build a design system that fosters and honours Sargam design methodology and principles, in a way that works for the majority.
+From the design principles, brand & product philosophy, tonality, foundations, to libraries, conceptual models, patterns, and final deliverables. Sargam brings all of these together in a way that allows teams to think deeply, envision the future and produce at an elite level in terms of both quality and speed.
 
-### Links
-* [Download Sargam UI](https://www.figma.com/community/file/997606486822345599/Sargam-UI) - v0.4
-* [Announcement Article](https://planetabhi.medium.com/announcing-sargam-design-cc28e86c3f05)
+v0.4 is now available on the Figma community.
+
+* [Download Sargam UI, Figma](https://www.figma.com/community/file/997606486822345599/Sargam-UI) - v0.4
+* [Read Announcement Article, Medium](https://planetabhi.medium.com/announcing-sargam-design-cc28e86c3f05)
 
 
-### Guiding principles
-**Crafted** — Thoughtful & elegant craftsmanship.
-**Simple** — Keep it super simple.
-**Universal** — Welcoming & accessible visual language.
-**Warmth** — Built for warmth and a caring vibe.
-**Authentic** — Nothing like Sargam.
-**Clarity** — Eliminate ambiguity.
+### Guiding principles of Sargam UI
+* **Authentic** — Nothing like Sargam.
+* **Clarity** — Eliminate ambiguity.
+* **Crafted** — Thoughtful, elegant, no-compromise craftsmanship.
+* **Simple** — Keep it super simple.
+* **Universal** — Welcoming & accessible visual language.
+* **Warmth** — Built for warmth and a caring vibe.
 
 -----
 
-### Sargam focuses on the unseen design systems problems:
+## Sargam design methodology
+A methodology for creating strong, finely crafted and scalable design systems. Based on the aesthetics of Indian Classical Music. Sargam focuses on the unseen design systems problems:
 1. Consistency taking over craftsmanship.
 2. Inauthentic, strategic constraints.
 3. Dying simplicity and clarity.
 4. Busy, monotonous, gatekeeping work.
-
-## Sargam design methodology
-A methodology for creating strong, finely crafted and scalable design systems. Based on the aesthetics of Indian Classical Music.
-
-Sargam is a free-form design improvisation framework that drives to scale and gives flexibility and creative freedom for working with the unknown of the future. Helps you materialize higher-level concepts, such as design principles and brand values, into concrete interfaces without losing core design ethos.
-
-From the design principles, brand & product philosophy, tonality, foundations, to libraries, conceptual models, patterns, and final deliverables. Sargam brings all of these together in a way that allows teams to think deeply, envision the future and produce at an elite level in terms of both quality and speed.
 
 ### Three distinct levels of Sargam design
 
@@ -61,6 +56,62 @@ A collection of standardized formats to keep all stakeholders aligned and accele
 1. Design tokens & translation workflow
 2. Kick-off templates: Insight framework, How we work, Get started building, Personas, UAT checklist
 3. Developers Hand-Off Guide
+
+-----
+
+# To-do's
+
+### Level 1: Principles
+- [x] Guiding Principles
+- [x] Color System
+- [x] Typography
+- [x] Shadows
+- [x] Iconography
+- [ ] Spacings & Grids
+
+### Level 2.1: Compositions/Components
+- [x] Avatars
+- [ ] Breadcrumb
+- [x] Buttons
+- [x] Button Groups
+- [ ] Calendars
+- [x] Checkboxes
+- [x] Counters
+- [x] Country Flags
+- [x] Inputs
+- [ ] Inline Feedback
+- [ ] Pagination
+- [x] Pills
+- [x] Radio Buttons
+- [x] Tabs
+- [x] Toasts
+- [ ] Sliders
+- [ ] Toggle
+- [x] Tooltips
+- [ ] Motion & Animation
+
+### Level 2.2: Compositions/Features
+- [ ] Application Shells
+- [ ] Title bars
+- [ ] Listing
+- [ ] Sidebar Overlays
+- [ ] Filters
+- [ ] Modals
+- [ ] Navigations
+
+### Level 2.3: Compositions/Apps
+- [ ] Gmail
+- [ ] Notion
+- [ ] Slack
+- [x] Polls
+
+### Level 3: Compositions/Inventory
+- [x] Insight Framework, Template
+- [x] User Persona, Template
+- [x] Get Started Building. Template
+- [ ] Design Tokens
+- [ ] Tokens Translation Workflow
+- [ ] Developers Hand-Off Guide
 
 -----
 
