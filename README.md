@@ -104,6 +104,7 @@ A collection of standardized formats to keep all stakeholders aligned and accele
 - [ ] Notion
 - [ ] Slack
 - [x] Polls
+- [x] Jobs
 
 ### Level 3: Compositions/Inventory
 - [x] Insight Framework, Template
