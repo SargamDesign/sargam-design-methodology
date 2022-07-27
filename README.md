@@ -3,9 +3,6 @@ Sargam UI is a free-form design system improvisation framework, made for creator
 
 From the design principles, brand & product philosophy, tonality, foundations, to libraries, conceptual models, patterns, and final deliverables. Sargam brings all of these together in a way that allows teams to think deeply, envision the future and produce at an elite level in terms of both quality and speed.
 
-v0.4 is now available on the Figma community.
-
-* [Download Sargam UI, Figma](https://www.figma.com/community/file/997606486822345599/Sargam-UI) - v0.4
 * [Read Announcement Article, Medium](https://planetabhi.medium.com/announcing-sargam-design-cc28e86c3f05)
 
 
