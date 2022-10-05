@@ -58,5 +58,7 @@ A collection of standardized formats to keep all stakeholders aligned and accele
 ### Built with Sargam
 
 [Mediocre UI](https://www.figma.com/community/file/997606486822345599)
+
 [Sargam Icons](https://sargamicons.com/)
+
 [Polls App](https://polls.adonisjs.dev/)
