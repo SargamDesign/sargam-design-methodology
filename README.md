@@ -55,8 +55,8 @@ A collection of standardized formats to keep all stakeholders aligned and accele
 3. Universal - Build it accessible and welcoming.
 4. Warmth - Build for warmth and a care.
 
-### Build with/for Sargam
+### Built with Sargam
 
 [Mediocre UI](https://www.figma.com/community/file/997606486822345599)
-
 [Sargam Icons](https://sargamicons.com/)
+[Polls App](https://polls.adonisjs.dev/)
