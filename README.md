@@ -1,27 +1,17 @@
-# Sargam UI
-Sargam UI is a free-form design system improvisation framework, made for creators who want to craft and deliver high-quality products with speed and scale. Helps you materialize higher-level concepts, such as design principles and brand values, into concrete interfaces without losing core design ethos.
+# Sargam Design Methodology
+A methodology for creating strong, finely crafted and scalable design systems. Based on the aesthetics of Indian Classical Music.
+
+Sargam provides a free-form design improvisation framework that drives to scale and gives flexibility and creative freedom for working with the unknown of the future. Helps you materialize higher-level concepts, such as design principles and brand values, into concrete interfaces without losing core design ethos.
 
 From the design principles, brand & product philosophy, tonality, foundations, to libraries, conceptual models, patterns, and final deliverables. Sargam brings all of these together in a way that allows teams to think deeply, envision the future and produce at an elite level in terms of both quality and speed.
 
-* [Read Announcement Article, Medium](https://planetabhi.medium.com/announcing-sargam-design-cc28e86c3f05)
-
-
-### Guiding principles of Sargam UI
-* **Authentic** — Nothing like Sargam.
-* **Clarity** — Eliminate ambiguity.
-* **Crafted** — Thoughtful, elegant, no-compromise craftsmanship.
-* **Simple** — Keep it super simple.
-* **Universal** — Welcoming & accessible visual language.
-* **Warmth** — Built for warmth and a caring vibe.
+### Sargam focuses on the unseen problems:
+1. Consistency taking over craftsmanship.
+1. Inauthentic, strategic constraints.
+1. Dying simplicity and clarity.
+1. Busy, monotonous, gatekeeping work.
 
 -----
-
-## Sargam design methodology
-A methodology for creating strong, finely crafted and scalable design systems. Based on the aesthetics of Indian Classical Music. Sargam focuses on the unseen design systems problems:
-1. Consistency taking over craftsmanship.
-2. Inauthentic, strategic constraints.
-3. Dying simplicity and clarity.
-4. Busy, monotonous, gatekeeping work.
 
 ### Three distinct levels of Sargam design
 
@@ -51,67 +41,22 @@ Inventory aims to record foundations like design tokens, token translation workf
 A collection of standardized formats to keep all stakeholders aligned and accelerate design workflows across teams. Templates to empower the team to work in parallel and ship high-quality work with speed. Below are some of the key areas Sargam UI inventory provides:
 
 1. Design tokens & translation workflow
-2. Kick-off templates: Insight framework, How we work, Get started building, Personas, UAT checklist
-3. Developers Hand-Off Guide
+2. Kick-off templates: Insight framework, how we work, get started building, user personas, UAT, checklists
+3. Developers hand-off workflows
 
 -----
 
-# To-do's
+# Guiding Principles for Sargam Offerings:
 
-### Level 1: Principles
-- [x] Guiding Principles
-- [x] Color System
-- [x] Typography
-- [x] Shadows
-- [x] Iconography
-- [ ] Spacings & Grids
+1. Authentic - Be unique and valuable.
+1. Clarity - Eliminate ambiguity.
+1. Crafted - Thoughtful, elegant, no-compromise craftsmanship.
+2. Simple - Keep it super simple.
+3. Universal - Build it accessible and welcoming.
+4. Warmth - Build for warmth and a care.
 
-### Level 2.1: Compositions/Components
-- [x] Avatars
-- [ ] Breadcrumb
-- [x] Buttons
-- [x] Button Groups
-- [ ] Calendars
-- [x] Checkboxes
-- [x] Counters
-- [x] Country Flags
-- [x] Inputs
-- [ ] Inline Feedback
-- [ ] Pagination
-- [x] Pills
-- [x] Radio Buttons
-- [x] Tabs
-- [x] Toasts
-- [ ] Sliders
-- [ ] Toggle
-- [x] Tooltips
-- [ ] Motion & Animation
+### Build with/for Sargam
 
-### Level 2.2: Compositions/Features
-- [ ] Application Shells
-- [ ] Title bars
-- [ ] Listing
-- [ ] Sidebar Overlays
-- [ ] Filters
-- [ ] Modals
-- [ ] Navigations
+[Mediocre UI](https://www.figma.com/community/file/997606486822345599)
 
-### Level 2.3: Compositions/Apps
-- [ ] Gmail
-- [ ] Notion
-- [ ] Slack
-- [x] Polls
-- [x] Jobs
-
-### Level 3: Compositions/Inventory
-- [x] Insight Framework, Template
-- [x] User Persona, Template
-- [x] Get Started Building. Template
-- [ ] Design Tokens
-- [ ] Tokens Translation Workflow
-- [ ] Developers Hand-Off Guide
-
------
-
-## License
-This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details.
+[Sargam Icons](https://sargamicons.com/)
