@@ -16,6 +16,36 @@ Sargam brings together various aspects of design, including design principles, b
 2. Compositions
 3. Inventory
 
+```
+                                                             
+               ┌──────────────────────────────┐              
+               │  Sargam Design Methodology   │              
+               └──────────────────────────────┘              
+                               │                             
+           ┌───────────────────┼───────────────────┐         
+           ▼                   ▼                   ▼         
+  ┌────────────────┐ ┌──────────────────┐ ┌─────────────────┐
+  │Principles /    │ │Compositions      │ │Inventory:       │
+  │Foundations     │ │(free-form improv)│ │Templates /      │
+  └────────────────┘ └──────────────────┘ │Utilities /      │
+                               │          │Automations /    │
+                               │          │Whatever         │
+                               │          └─────────────────┘
+                               │                             
+                               │  ┌────────────────┐         
+                               ├─▶│   Components   │         
+                               │  └────────────────┘         
+                               │  ┌────────────────┐         
+                               ├─▶│    Patterns    │         
+                               │  └────────────────┘         
+                               │  ┌────────────────┐         
+                               ├─▶│    Features    │         
+                               │  └────────────────┘         
+                               │  ┌────────────────┐         
+                               └─▶│    Whatever    │         
+                                  └────────────────┘         
+```
+
 ---
 
 ## Level 1: Principles
